@@ -6,4 +6,7 @@
 # The sequence matters: later patterns take precedence.
 
 # FILES  OWNERS
-*        @usnistgov/opensource-team
+*        @cbergonzo
+*        christina.bergonzo@nist.gov
+*        alexander.grishaev@nist.gov
+*        veronika.szalai@nist.gov
