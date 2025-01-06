@@ -46,7 +46,7 @@ themes:
   #
   # - Bioscience
   #     - Biomaterials
-  #     - Biomolecular characterization
+        - Biomolecular characterization
   #     - Bioprocessing
   #     - Cell biology
   #     - Engineering or synthetic biology
@@ -73,7 +73,7 @@ themes:
   #     - Chemical engineering and processing
   #     - Chemical thermodynamics and chemical properties
   #     - Molecular characterization
-  #     - Theoretical chemistry and modeling
+        - Theoretical chemistry and modeling
   #     - Thermochemical properties
   #
   # - Electronics
@@ -177,7 +177,7 @@ themes:
   #
   # - Manufacturing
   #     - Additive manufacturing
-  #     - Biomanufacturing
+        - Biomanufacturing
   #     - Factory communications
   #     - Factory operations planning and control
   #     - Interoperability in manufacturing
@@ -278,7 +278,7 @@ themes:
   #     - Optical physics
   #     - Quantum information science
   #     - Radiation
-  #     - Spectroscopy
+        - Spectroscopy
   #     - Thermodynamics
   #     - Time and frequency
   #
